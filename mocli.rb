@@ -1,4 +1,4 @@
-class mocli < Formula
+class Mocli < Formula
   desc "View your mogenius account in style from your CLI environment!"
   homepage "https://www.mogenius.com"
   url "https://github.com/mogenius/homebrew-mocli"
