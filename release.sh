@@ -1,24 +1,7 @@
 #!/bin/bash
 
-VERSION="1.0.0"
-
-declare -A platforms
-platforms=( 
-    ["darwin_arm64"]=""
-    ["darwin_amd64"]=""
-    ["linux_amd64"]=""
-    ["linux_386"]=""
-    ["linux_arm64"]=""
-    ["linux_arm"]=""
-    ["windows_amd64"]=""
-    ["windows_386"]=""
-)
-
 # Download and calculate SHA-256 for each platform
 for platform in "${!platforms[@]}"; do
-    URL="https://github.com/mogenius/homebrew-mocli/releases/download/v${VERSION}/mocli-${VERSION}-${platform}.tar.gz"
-    TEMP_FILE=$(mktemp)
-    curl -Lo "${TEMP_FILE}" "${URL}"
     SHA256=$(sha256sum "${TEMP_FILE}" | awk '{print $1}')
     platforms[$platform]=$SHA256
     rm "${TEMP_FILE}"
