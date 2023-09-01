@@ -6,9 +6,18 @@ This is the public version of `mocli` repo to distribute it via [Homebrew](https
 
 ## Installation
 
+### Mac/Linux
 ```
 brew tap mogenius/mocli
 brew install mocli
 ```
 
+### Windows
+```
+Install: https://scoop.sh/
+scoop bucket add mogenius-cli https://github.com/mogenius/homebrew-mocli
+scoop install mocli
+```
+
+Then have fun! 😎
 Then have fun! 😎
