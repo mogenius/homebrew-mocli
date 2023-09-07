@@ -32,7 +32,7 @@ class Mocli < Formula
     end
   end
   
-  version "v1.2.13"
+  version "1.2.13"
   license "MIT"
 
   def install
