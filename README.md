@@ -1,5 +1,9 @@
 # README
 
+<p align="center">
+  <img src="assets/logo.png" alt="drawing" width="500"/>
+</p>
+
 This is the public version of `mocli` repository for distribution purposes. It just contains the release versions of the binaries as tarballs.
 
 `mocli` is a CLI tool with a TUI(terminal UI). It is written in Go with the help of package [tview](https://github.com/rivo/tview) to observe your [mogenius](https://mogenius.com/) projects 'n services from your CLI environment in style.
