@@ -4,62 +4,62 @@ class Mocli < Formula
   
   on_macos do
     if Hardware::CPU.arm?
-      url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.16/mocli-v1.2.16-darwin-arm64.tar.gz"
-      sha256 "0c82f347d6529a67c78741ba15c76f96a464f584ac5aee321a65c230e9b25f56"
+      url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.17/mocli-v1.2.17-darwin-arm64.tar.gz"
+      sha256 "52e88f5775de43e55653ce9f58ace77a72312e3cf742f3915e95ea9e262fd088"
     elsif Hardware::CPU.intel?
-      url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.16/mocli-v1.2.16-darwin-amd64.tar.gz"
-      sha256 "315321c380f7dc46c227c8618de66ca2124ea298d4b10afe6aff92193eb92148"
+      url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.17/mocli-v1.2.17-darwin-amd64.tar.gz"
+      sha256 "900b4cbde8f301ca8bff328c2d1a7826d958db68582da9e5d5ee44351bedac2a"
     end
   end
 
   on_linux do
     if Hardware::CPU.intel?
       if Hardware::CPU.is_64_bit?
-        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.16/mocli-v1.2.16-linux-amd64.tar.gz"
-        sha256 "bec1c4872556f8c13c962aec4abeeedf5b5e87b18a8b89b0cbe6db4ada114f47"
+        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.17/mocli-v1.2.17-linux-amd64.tar.gz"
+        sha256 "63e351481faf67e766828a9bf955fd8657b5dee9bc48666ee81a9f3af8930f54"
       else
-        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.16/mocli-v1.2.16-linux-386.tar.gz"
-        sha256 "4ca58668977fc0844f9ac99bb507eeb48fa66a9c615dd29a0359fa6daf0da1e7"
+        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.17/mocli-v1.2.17-linux-386.tar.gz"
+        sha256 "bcd3dcc62b4ad5cf00ddea5c596dde699f9d6b3d0fc4ae74bb2fd1b31f2eaa37"
       end
     elif Hardware::CPU.arm?
       if Hardware::CPU.is_64_bit?
-        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.16/mocli-v1.2.16-linux-arm64.tar.gz"
-        sha256 "bd9756c5f4126038a12b42a43f0ae3d0c67c6b487ffed21c7f52d32725214a8e"
+        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.17/mocli-v1.2.17-linux-arm64.tar.gz"
+        sha256 "3d9c2b48853ea827fa5db1bfcff5948d72da74aebbd24c822bea0a607d0e8240"
       else
-        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.16/mocli-v1.2.16-linux-arm.tar.gz"
-        sha256 "136d1f5970d1926e15f94d87d1f2bda10ce943968e3ba16f1af3be950cae78fc"
+        url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.2.17/mocli-v1.2.17-linux-arm.tar.gz"
+        sha256 "d26df2d0f1ee5584077f723351bd0f0f645363365caec97214e7385b6b170d5e"
       end
     end
   end
   
-  version "1.2.16"
+  version "1.2.17"
   license "MIT"
 
   def install
   if OS.mac?
     if Hardware::CPU.arm?
       # Installation steps for macOS ARM64
-      bin.install "mocli-v1.2.16-darwin-arm64" => "mocli"
+      bin.install "mocli-v1.2.17-darwin-arm64" => "mocli"
     elsif Hardware::CPU.intel?
       # Installation steps for macOS AMD64
-      bin.install "mocli-v1.2.16-darwin-amd64" => "mocli"
+      bin.install "mocli-v1.2.17-darwin-amd64" => "mocli"
     end
   elsif OS.linux?
     if Hardware::CPU.intel?
       if Hardware::CPU.is_64_bit?
         # Installation steps for Linux AMD64
-        bin.install "mocli-v1.2.16-linux-amd64" => "mocli"
+        bin.install "mocli-v1.2.17-linux-amd64" => "mocli"
       else
         # Installation steps for Linux 386
-        bin.install "mocli-v1.2.16-linux-386" => "mocli"
+        bin.install "mocli-v1.2.17-linux-386" => "mocli"
       end
     elsif Hardware::CPU.arm?
       if Hardware::CPU.is_64_bit?
         # Installation steps for Linux ARM64
-        bin.install "mocli-v1.2.16-linux-arm64" => "mocli"
+        bin.install "mocli-v1.2.17-linux-arm64" => "mocli"
       else
         # Installation steps for Linux ARM
-        bin.install "mocli-v1.2.16-linux-arm" => "mocli"
+        bin.install "mocli-v1.2.17-linux-arm" => "mocli"
       end
     end
   end
