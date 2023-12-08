@@ -1,3 +1,147 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.7.7](https://github.com/mogenius/mocli/compare/v1.7.6...v1.7.7) (2023-12-08)
+
+
+### Bug Fixes
+
+* Minor change. ([77d646f](https://github.com/mogenius/mocli/commit/77d646fe47617043c244ef4db0f5d84ea97208fb))
+* Minor fix. ([62c5990](https://github.com/mogenius/mocli/commit/62c599058c166736dddec7d9b402053a6b902d6e))
+* pipeline ([59469ed](https://github.com/mogenius/mocli/commit/59469edfd879baf91500e5a8ab915f9a3aab9787))
+* pipeline ([9c6d33c](https://github.com/mogenius/mocli/commit/9c6d33c85fc6d4c5665d1bdf4f206fa544a85135))
+* pipeline ([413c939](https://github.com/mogenius/mocli/commit/413c939d365c215a8d6dc03936b957b44d200111))
+* pipeline ([5175895](https://github.com/mogenius/mocli/commit/51758959ab890a9ddd3920e8534c8f755f128b49))
+* Typo fixes. ([85b9061](https://github.com/mogenius/mocli/commit/85b9061b9d6214d301d3da9ae37877e51ce0ed3d))
+* Update develop.yml ([15d387e](https://github.com/mogenius/mocli/commit/15d387efb9705facd3bf2b4b0f32633960c16379))
+
+### [1.7.6](https://github.com/mogenius/mocli/compare/v1.7.5...v1.7.6) (2023-12-07)
+
+
+### Bug Fixes
+
+* Updated README. [skip ci] ([611aa60](https://github.com/mogenius/mocli/commit/611aa60f6fbff21e220917a7c4d0fa33d575245e))
+
+### [1.7.5](https://github.com/mogenius/mocli/compare/v1.7.4...v1.7.5) (2023-12-07)
+
+
+### Bug Fixes
+
+* Minor fix. ([43ce41e](https://github.com/mogenius/mocli/commit/43ce41efbc62b0258eb8a8f54f50d9009cb955d6))
+
+### [1.7.4](https://github.com/mogenius/mocli/compare/v1.7.3...v1.7.4) (2023-12-01)
+
+
+### Bug Fixes
+
+* Improved auth process. ([4777ccb](https://github.com/mogenius/mocli/commit/4777ccb29ecd0ff34a3be47060428d3ea5e6c6f4))
+* Minor changes. ([55f7247](https://github.com/mogenius/mocli/commit/55f72472435fb7cdd82654b9ea894f45a043902e))
+
+### [1.7.3](https://github.com/mogenius/mocli/compare/v1.7.2...v1.7.3) (2023-12-01)
+
+
+### Bug Fixes
+
+* Improved organisation. ([0df95fd](https://github.com/mogenius/mocli/commit/0df95fd9ec26531443a7d82d0ad3e27d9b76c51a))
+
+### [1.7.2](https://github.com/mogenius/mocli/compare/v1.7.1...v1.7.2) (2023-12-01)
+
+
+### Bug Fixes
+
+* Organisational change. ([e480b5e](https://github.com/mogenius/mocli/commit/e480b5ed68b07e8914f11677e76f873636b62048))
+* VArious organisational changes. ([9b750ce](https://github.com/mogenius/mocli/commit/9b750ce063884ef01e881cb165063b304b8a7cf0))
+
+### [1.7.1](https://github.com/mogenius/mocli/compare/v1.7.0...v1.7.1) (2023-12-01)
+
+
+### Bug Fixes
+
+* Minor changes. ([5ba8f2b](https://github.com/mogenius/mocli/commit/5ba8f2b63cfba06c1a5c8fc641f4f04d5c20fe35))
+* Minor organisational changes. ([05db8ea](https://github.com/mogenius/mocli/commit/05db8ea5ed1d5468e6ab06849c38e011a419c44e))
+
+## [1.7.0](https://github.com/mogenius/mocli/compare/v1.6.18...v1.7.0) (2023-11-30)
+
+
+### Features
+
+* Added the very basic of service editing. ([b6804e2](https://github.com/mogenius/mocli/commit/b6804e2fd068affaa55afdf1b6c4a674cb7e620f))
+* Enabled displaying of some service data within YAML. ([834a577](https://github.com/mogenius/mocli/commit/834a577fd89dd41bdaae4f316f4465a6b4d6fc94))
+* Implemented basic YAML file edit. ([b10d984](https://github.com/mogenius/mocli/commit/b10d9848cdd9b3293047c38abe6623b071a469aa))
+
+
+### Bug Fixes
+
+* Improved edit service file generation. ([bbef890](https://github.com/mogenius/mocli/commit/bbef89073f025d74ecdb54c28d0e675110b647f6))
+* Minor changes. ([963c28f](https://github.com/mogenius/mocli/commit/963c28fa97f96059f6d43ea3844a73b4d301eb6e))
+* Minor changes. ([3a8fc8e](https://github.com/mogenius/mocli/commit/3a8fc8e73ed5d9b24c07e7740dc34ec94865aaa1))
+* Minor changes. ([02a2ca4](https://github.com/mogenius/mocli/commit/02a2ca49906bd3374d99c7f8667dca13d05e5206))
+
+### [1.6.18](https://github.com/mogenius/mocli/compare/v1.6.17...v1.6.18) (2023-11-28)
+
+
+### Bug Fixes
+
+* improved local dev setup script. ([580b570](https://github.com/mogenius/mocli/commit/580b57042d9d05c04da355d4a79fed961162a833))
+
+### [1.6.17](https://github.com/mogenius/mocli/compare/v1.6.16...v1.6.17) (2023-11-27)
+
+### [1.6.8](https://github.com/mogenius/mocli/compare/v1.6.7...v1.6.8) (2023-11-10)
+
+### [1.6.16](https://github.com/mogenius/mocli/compare/v1.6.15...v1.6.16) (2023-11-27)
+
+
+### Bug Fixes
+
+* Minor change. ([bcb9568](https://github.com/mogenius/mocli/commit/bcb9568d61b422b6edcee542869f45832241d133))
+
+### [1.6.15](https://github.com/mogenius/mocli/compare/v1.6.14...v1.6.15) (2023-11-27)
+
+
+### Bug Fixes
+
+* Minor change. ([c3af105](https://github.com/mogenius/mocli/commit/c3af105d8563845aa1e2873c18731253dd1ef14b))
+
+### [1.6.14](https://github.com/mogenius/mocli/compare/v1.6.13...v1.6.14) (2023-11-27)
+
+
+### Bug Fixes
+
+* Changes to config handling. ([09abc2e](https://github.com/mogenius/mocli/commit/09abc2e1cc6f91ef97d47aaafff2efc414e351c1))
+
+### [1.6.13](https://github.com/mogenius/mocli/compare/v1.6.12...v1.6.13) (2023-11-24)
+
+
+### Bug Fixes
+
+* Minor fix for instance logs. ([36458fe](https://github.com/mogenius/mocli/commit/36458fe5ec114b1f39bb1d06f4cbfab14132782d))
+
+### [1.6.12](https://github.com/mogenius/mocli/compare/v1.6.11...v1.6.12) (2023-11-24)
+
+
+### Bug Fixes
+
+* Minor change. ([87bc264](https://github.com/mogenius/mocli/commit/87bc26476d9111e42094bc7b56bc08724ad43321))
+
+### [1.6.11](https://github.com/mogenius/mocli/compare/v1.6.10...v1.6.11) (2023-11-24)
+
+
+### Bug Fixes
+
+* Update release-dev.sh ([cd10f34](https://github.com/mogenius/mocli/commit/cd10f345fb5381c5b6faf5707c801543e623d5f0))
+
+### [1.6.10](https://github.com/mogenius/mocli/compare/v1.6.9...v1.6.10) (2023-11-24)
+
+
+### Bug Fixes
+
+* added add cluster. ([23bc98d](https://github.com/mogenius/mocli/commit/23bc98dbf7c10aa4e7d81d7bee21f9a33781c8b0))
+* added add cluster. ([2b7464b](https://github.com/mogenius/mocli/commit/2b7464b4c24ad5f0dc3bc0c4ded37954752787f4))
+* improved win admin handling. ([569ea53](https://github.com/mogenius/mocli/commit/569ea53cc3bd5c964ee1056b87f9c3a36027fa2d))
+* Minor cosmetic changes. ([ee5e2c0](https://github.com/mogenius/mocli/commit/ee5e2c0c850a2b9151ffc49ebf6130b89410fa8f))
+* minor improvements. ([c5599e9](https://github.com/mogenius/mocli/commit/c5599e9644a6b303cb40eeb419c72dc291e00a39))
+* windows platform specific implementation added. ([6c4aa83](https://github.com/mogenius/mocli/commit/6c4aa835799f0460ccf176ec0805ceb09ffff290))
 
 ### [1.6.8](https://github.com/mogenius/mocli/compare/v1.6.7...v1.6.8) (2023-11-10)
 
