@@ -2,12 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.7.7](https://github.com/mogenius/mocli/compare/v1.7.6...v1.7.7) (2023-12-08)
+### [1.7.9](https://github.com/mogenius/mocli/compare/v1.7.8...v1.7.9) (2024-02-14)
+
+### [1.7.8](https://github.com/mogenius/mocli/compare/v1.7.7...v1.7.8) (2024-02-14)
+
+### [1.7.7](https://github.com/mogenius/mocli/compare/v1.7.6...v1.7.7) (2024-02-14)
 
 
 ### Bug Fixes
 
+* cluster connect fixes. ([bfbbd73](https://github.com/mogenius/mocli/commit/bfbbd73b899716f3d11cf9cafb4bbf57b54cece2))
 * Minor change. ([77d646f](https://github.com/mogenius/mocli/commit/77d646fe47617043c244ef4db0f5d84ea97208fb))
+* Minor change. ([b7b2c63](https://github.com/mogenius/mocli/commit/b7b2c635bd2ab053add5afd89c41d9712b4055f3))
 * Minor fix. ([62c5990](https://github.com/mogenius/mocli/commit/62c599058c166736dddec7d9b402053a6b902d6e))
 * pipeline ([59469ed](https://github.com/mogenius/mocli/commit/59469edfd879baf91500e5a8ab915f9a3aab9787))
 * pipeline ([9c6d33c](https://github.com/mogenius/mocli/commit/9c6d33c85fc6d4c5665d1bdf4f206fa544a85135))
@@ -15,6 +21,8 @@ All notable changes to this project will be documented in this file. See [standa
 * pipeline ([5175895](https://github.com/mogenius/mocli/commit/51758959ab890a9ddd3920e8534c8f755f128b49))
 * Typo fixes. ([85b9061](https://github.com/mogenius/mocli/commit/85b9061b9d6214d301d3da9ae37877e51ce0ed3d))
 * Update develop.yml ([15d387e](https://github.com/mogenius/mocli/commit/15d387efb9705facd3bf2b4b0f32633960c16379))
+* updated pipeline. ([6e216a3](https://github.com/mogenius/mocli/commit/6e216a3321c7822f800c2f78d8e799bba02c83f1))
+* version bump. ([6681914](https://github.com/mogenius/mocli/commit/6681914ef3e08fcc3fdbd2e7a0a5afa8ca74de37))
 
 ### [1.7.6](https://github.com/mogenius/mocli/compare/v1.7.5...v1.7.6) (2023-12-07)
 
