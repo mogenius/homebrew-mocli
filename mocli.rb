@@ -27,7 +27,7 @@ class Mocli < Formula
         url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.7.9/mocli-v1.7.9-linux-386.tar.gz"
         sha256 "7d3bc9ed5c8abab6b275c5a0ce41d573f8f13d61753f7d5047cf622669f4c321"
       end
-    elif Hardware::CPU.arm?
+    elsif Hardware::CPU.arm?
       if Hardware::CPU.is_64_bit?
         url "https://github.com/mogenius/homebrew-mocli/releases/download/v1.7.9/mocli-v1.7.9-linux-arm64.tar.gz"
         sha256 "afac0baaebea655cd5373f9b8deff971120f0b38f07105656b78b293bf7776ea"
