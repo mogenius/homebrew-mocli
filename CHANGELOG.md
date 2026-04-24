@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/mogenius/mocli/compare/v1.9.0-dev.14...v1.9.0) (2026-04-24)
+
+### [1.8.4](https://github.com/mogenius/mocli/compare/v1.8.4-dev.0...v1.8.4) (2025-11-25)
+
 ### [1.8.4](https://github.com/mogenius/mocli/compare/v1.8.4-dev.0...v1.8.4) (2025-11-25)
 
 ### [1.8.4-dev.0](https://github.com/mogenius/mocli/compare/v1.8.3...v1.8.4-dev.0) (2025-11-25)
