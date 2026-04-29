@@ -2,7 +2,60 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.1](https://github.com/mogenius/mocli/compare/v1.9.0-dev.20...v1.9.1) (2026-04-29)
+
 ## [1.9.0](https://github.com/mogenius/mocli/compare/v1.9.0-dev.14...v1.9.0) (2026-04-24)
+
+## [1.9.0-dev.20](https://github.com/mogenius/mocli/compare/v1.9.0-dev.19...v1.9.0-dev.20) (2026-04-29)
+
+
+### Bug Fixes
+
+* multiple fixes ([04f5350](https://github.com/mogenius/mocli/commit/04f5350461d63ddede80dd240c2072d7ae94e25a))
+
+## [1.9.0-dev.19](https://github.com/mogenius/mocli/compare/v1.9.0-dev.18...v1.9.0-dev.19) (2026-04-29)
+
+
+### Bug Fixes
+
+* multiple fixes ([e24725e](https://github.com/mogenius/mocli/commit/e24725e03c52c19fafa55131dc4aaedef0ad844c))
+
+## [1.9.0-dev.18](https://github.com/mogenius/mocli/compare/v1.9.0-dev.17...v1.9.0-dev.18) (2026-04-28)
+
+
+### Bug Fixes
+
+* updated ALL deps to latest ([b8ddec2](https://github.com/mogenius/mocli/commit/b8ddec2065e890c3ab9a046006f75f11d273b716))
+
+## [1.9.0-dev.17](https://github.com/mogenius/mocli/compare/v1.9.0-dev.16...v1.9.0-dev.17) (2026-04-28)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/charmbracelet/bubbles to v2 ([6168cd9](https://github.com/mogenius/mocli/commit/6168cd999e4048912e9fca2d8d0233b89c10c2a6))
+
+## [1.9.0-dev.16](https://github.com/mogenius/mocli/compare/v1.9.0-dev.15...v1.9.0-dev.16) (2026-04-28)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/charmbracelet/lipgloss to v2 ([6b0ddda](https://github.com/mogenius/mocli/commit/6b0dddab3c94d3905a1053fa4b0fcf8d9cd78154))
+* **deps:** update module k8s.io/client-go to v0.36.0 ([97400e9](https://github.com/mogenius/mocli/commit/97400e97fad52c657ae1d48ae25823336ee3dbc5))
+
+## [1.9.0-dev.15](https://github.com/mogenius/mocli/compare/v1.9.0-dev.14...v1.9.0-dev.15) (2026-04-28)
+
+
+### Features
+
+* improve tunnel error display and add :tunnel navigation ([303e1e1](https://github.com/mogenius/mocli/commit/303e1e13a143d1aeb33ba4293706ebe57c2290cf))
+
+
+### Bug Fixes
+
+* crazy coole features ([773de69](https://github.com/mogenius/mocli/commit/773de69ae4c1d114dc4181cd9b2cd63e2653fc68))
+* keep selected line in mind when esc-ing. minor bug fix ([4ec0fc8](https://github.com/mogenius/mocli/commit/4ec0fc84e09bd29caf3db4e86aac6a9ab79622e6))
+* logs are now streamed ([12735f2](https://github.com/mogenius/mocli/commit/12735f2dab9d6df6423c225a17a8c9d0a8b50d40))
+* TUI improvements and bug fixes ([d1100ee](https://github.com/mogenius/mocli/commit/d1100ee9806f7734efaac669c19eff0f4e247e3e))
 
 ### [1.8.4](https://github.com/mogenius/mocli/compare/v1.8.4-dev.0...v1.8.4) (2025-11-25)
 
