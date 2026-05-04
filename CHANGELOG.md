@@ -2,7 +2,96 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.9.1](https://github.com/mogenius/mocli/compare/v1.9.0-dev.20...v1.9.1) (2026-04-29)
+## [1.10.0](https://github.com/mogenius/mocli/compare/v1.10.0-dev.8...v1.10.0) (2026-05-04)
+
+## [1.10.0-dev.8](https://github.com/mogenius/mocli/compare/v1.10.0-dev.7...v1.10.0-dev.8) (2026-05-04)
+
+### [1.9.1](https://github.com/mogenius/mocli/compare/v1.9.1-dev.0...v1.9.1) (2026-04-29)
+
+## [1.10.0-dev.7](https://github.com/mogenius/mocli/compare/v1.10.0-dev.6...v1.10.0-dev.7) (2026-04-30)
+
+
+### Bug Fixes
+
+* added pods stats endpoint ([a9b7f9b](https://github.com/mogenius/mocli/commit/a9b7f9bc3cfd3ab8a23185feb944c1fb65a83324))
+
+## [1.10.0-dev.6](https://github.com/mogenius/mocli/compare/v1.10.0-dev.5...v1.10.0-dev.6) (2026-04-30)
+
+
+### Bug Fixes
+
+* multiple fixes ([8f3cff5](https://github.com/mogenius/mocli/commit/8f3cff52b11f27f790393ccceadc69c3d95a982d))
+
+## [1.10.0-dev.5](https://github.com/mogenius/mocli/compare/v1.10.0-dev.4...v1.10.0-dev.5) (2026-04-30)
+
+
+### Bug Fixes
+
+* multiple TUI fixes and scale feature ([336ac2b](https://github.com/mogenius/mocli/commit/336ac2bec92e0211ae59c30bf1d24296fb582f1c))
+
+## [1.10.0-dev.4](https://github.com/mogenius/mocli/compare/v1.10.0-dev.3...v1.10.0-dev.4) (2026-04-30)
+
+
+### Bug Fixes
+
+* multiple fixes ([8a8aeb1](https://github.com/mogenius/mocli/commit/8a8aeb10678c5e0e66c3b2a346572a4a681a2276))
+
+## [1.10.0-dev.3](https://github.com/mogenius/mocli/compare/v1.10.0-dev.2...v1.10.0-dev.3) (2026-04-30)
+
+
+### Bug Fixes
+
+* multiple fixes ([df72f8f](https://github.com/mogenius/mocli/commit/df72f8f77c038431d7adbad8135fa5c7a4d62469))
+
+## [1.10.0-dev.2](https://github.com/mogenius/mocli/compare/v1.10.0-dev.1...v1.10.0-dev.2) (2026-04-29)
+
+
+### Features
+
+* implement consistent status colour coding across resources ([169e434](https://github.com/mogenius/mocli/commit/169e43405c8b6d81101410441a3e2bc79e801f9a))
+* **MOG-4267:** colorize Ready column for workloads ([54d4bcf](https://github.com/mogenius/mocli/commit/54d4bcf2fbaae017729fe14ee19aa12c7f9aee5a))
+* **MOG-4268:** improve cluster navigation flow ([7928aac](https://github.com/mogenius/mocli/commit/7928aac13a9433ef27a8c011e0cc696d60c2adac))
+
+
+### Bug Fixes
+
+* **MOG-4266:** allow typing 'q' in tunnel view command mode ([0640589](https://github.com/mogenius/mocli/commit/0640589eaeb8e2814944675d37a5953c87cdecf9))
+* **MOG-4267:** improve selection styling for colored cells ([799c21a](https://github.com/mogenius/mocli/commit/799c21a70fd4e4a4a732775548aaebca4245b920))
+* **MOG-4268:** show parent context when viewing controller pods ([a898a0a](https://github.com/mogenius/mocli/commit/a898a0ad7991aa6bced90920c282ebd6dfda45b2))
+* **MOG-4268:** update footer bindings for controller resources ([87a925c](https://github.com/mogenius/mocli/commit/87a925c887552e07c059c09bb94e6a3bfa163aec))
+* **MOG-4269:** prevent nil pointer crash when creating tunnel ([3e8c126](https://github.com/mogenius/mocli/commit/3e8c12673507b3fdaae7423da0a50f7294fd89ea))
+* remove inline status colorization to fix selected row contrast ([79dd292](https://github.com/mogenius/mocli/commit/79dd29277943a965e9e00e8009a0967cf672a9bf))
+
+## [1.10.0-dev.1](https://github.com/mogenius/mocli/compare/v1.10.0-dev.0...v1.10.0-dev.1) (2026-04-29)
+
+
+### Features
+
+* add real-time cluster events via Socket.IO ([1b6fbf8](https://github.com/mogenius/mocli/commit/1b6fbf85af63ef42363026b23815db14fe3d2774))
+* show item count in footer ([470d941](https://github.com/mogenius/mocli/commit/470d941191cb82debef649b5188edc1ccaf1a34b))
+
+## [1.10.0-dev.0](https://github.com/mogenius/mocli/compare/v1.9.1-dev.1...v1.10.0-dev.0) (2026-04-29)
+
+
+### Features
+
+* add command mode navigation to tunnels view ([c3b58d5](https://github.com/mogenius/mocli/commit/c3b58d50f101c71b59f6e4789f5c82a7a7196426))
+* add k9s-style color coding and sorting for resource views ([44a30d5](https://github.com/mogenius/mocli/commit/44a30d530140557f5e467e339ecbb587b766f094))
+
+
+### Bug Fixes
+
+* change 't' keybinding to create tunnel instead of opening tunnels view ([c965530](https://github.com/mogenius/mocli/commit/c965530e5f6a9d4acf2a179f42abb8c0f39afb9b))
+
+### [1.9.1-dev.1](https://github.com/mogenius/mocli/compare/v1.9.1-dev.0...v1.9.1-dev.1) (2026-04-29)
+
+
+### Bug Fixes
+
+* handle 304 Not Modified when listing tunnel sessions ([9089623](https://github.com/mogenius/mocli/commit/90896232ea76a9e5ef3883cfbc4036584a94cca1))
+* handle esc key in orgs view error state ([7cd72ba](https://github.com/mogenius/mocli/commit/7cd72ba53bf54d1096e909e91d10308a3e045646))
+
+### [1.9.1-dev.0](https://github.com/mogenius/mocli/compare/v1.9.0-dev.20...v1.9.1-dev.0) (2026-04-29)
 
 ## [1.9.0](https://github.com/mogenius/mocli/compare/v1.9.0-dev.14...v1.9.0) (2026-04-24)
 
