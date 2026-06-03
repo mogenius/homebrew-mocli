@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.1](https://github.com/mogenius/mocli/compare/v1.10.1-dev.1...v1.10.1) (2026-06-03)
+
+### [1.10.1-dev.1](https://github.com/mogenius/mocli/compare/v1.10.1-dev.0...v1.10.1-dev.1) (2026-06-03)
+
+
+### Bug Fixes
+
+* **deps:** update module charm.land/bubbletea/v2 to v2.0.7 ([cce315c](https://github.com/mogenius/mocli/commit/cce315c5fd8877f5b440acd12672c17fc6b0ce17))
+
+### [1.10.1-dev.0](https://github.com/mogenius/mocli/compare/v1.10.0-dev.12...v1.10.1-dev.0) (2026-05-20)
+
+## [1.10.0](https://github.com/mogenius/mocli/compare/v1.10.0-dev.8...v1.10.0) (2026-05-04)
+
 ## [1.10.0](https://github.com/mogenius/mocli/compare/v1.10.0-dev.8...v1.10.0) (2026-05-04)
 
 ## [1.10.0-dev.8](https://github.com/mogenius/mocli/compare/v1.10.0-dev.7...v1.10.0-dev.8) (2026-05-04)
