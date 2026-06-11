@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.2](https://github.com/mogenius/mocli/compare/v1.10.2-dev.0...v1.10.2) (2026-06-11)
+
+### [1.10.2-dev.0](https://github.com/mogenius/mocli/compare/v1.10.1-dev.2...v1.10.2-dev.0) (2026-06-10)
+
+### [1.10.1](https://github.com/mogenius/mocli/compare/v1.10.1-dev.1...v1.10.1) (2026-06-03)
+
+### [1.10.1-dev.2](https://github.com/mogenius/mocli/compare/v1.10.1-dev.1...v1.10.1-dev.2) (2026-06-10)
+
+
+### Bug Fixes
+
+* crds added to navi ([bc2daf2](https://github.com/mogenius/mocli/commit/bc2daf2baf16071a6ae844aebe9002f274977573))
+
 ### [1.10.1](https://github.com/mogenius/mocli/compare/v1.10.1-dev.1...v1.10.1) (2026-06-03)
 
 ### [1.10.1-dev.1](https://github.com/mogenius/mocli/compare/v1.10.1-dev.0...v1.10.1-dev.1) (2026-06-03)
