@@ -2,7 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.3](https://github.com/mogenius/mocli/compare/v1.10.2-dev.2...v1.10.3) (2026-06-15)
+
 ### [1.10.2](https://github.com/mogenius/mocli/compare/v1.10.2-dev.0...v1.10.2) (2026-06-11)
+
+### [1.10.2-dev.2](https://github.com/mogenius/mocli/compare/v1.10.2-dev.1...v1.10.2-dev.2) (2026-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update kubernetes monorepo to v0.36.2 ([db490c9](https://github.com/mogenius/mocli/commit/db490c9f30e2c8ce4af7d4f42e86b34cd5ae4294))
+* **deps:** update module charm.land/lipgloss/v2 to v2.0.4 ([f54f74b](https://github.com/mogenius/mocli/commit/f54f74b62bb3dee0cb968f14cfc605cff89dd9ed))
+
+### [1.10.2-dev.2](https://github.com/mogenius/mocli/compare/v1.10.2-dev.1...v1.10.2-dev.2) (2026-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update kubernetes monorepo to v0.36.2 ([db490c9](https://github.com/mogenius/mocli/commit/db490c9f30e2c8ce4af7d4f42e86b34cd5ae4294))
+* **deps:** update module charm.land/lipgloss/v2 to v2.0.4 ([f54f74b](https://github.com/mogenius/mocli/commit/f54f74b62bb3dee0cb968f14cfc605cff89dd9ed))
+
+### [1.10.2-dev.1](https://github.com/mogenius/mocli/compare/v1.10.2-dev.0...v1.10.2-dev.1) (2026-06-15)
+
+
+### Bug Fixes
+
+* custom config now allow for custom platform urls if you set your stage to custom ([a7401e4](https://github.com/mogenius/mocli/commit/a7401e4973e6a4d9b2283c54550b029d1d29627c))
 
 ### [1.10.2-dev.0](https://github.com/mogenius/mocli/compare/v1.10.1-dev.2...v1.10.2-dev.0) (2026-06-10)
 
