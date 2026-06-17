@@ -2,7 +2,37 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/mogenius/mocli/compare/v1.11.0-dev.3...v1.11.0) (2026-06-17)
+
+## [1.11.0-dev.3](https://github.com/mogenius/mocli/compare/v1.11.0-dev.2...v1.11.0-dev.3) (2026-06-17)
+
 ### [1.10.3](https://github.com/mogenius/mocli/compare/v1.10.2-dev.2...v1.10.3) (2026-06-15)
+
+## [1.11.0-dev.2](https://github.com/mogenius/mocli/compare/v1.11.0-dev.1...v1.11.0-dev.2) (2026-06-17)
+
+
+### Bug Fixes
+
+* make shell stream build on Windows (syscall.SIGWINCH is Unix-only) ([bf217d3](https://github.com/mogenius/mocli/commit/bf217d3716057051d8cb5d2072f14b1bec9f3f9a))
+
+## [1.11.0-dev.1](https://github.com/mogenius/mocli/compare/v1.11.0-dev.0...v1.11.0-dev.1) (2026-06-17)
+
+## [1.11.0-dev.0](https://github.com/mogenius/mocli/compare/v1.10.3-dev.0...v1.11.0-dev.0) (2026-06-17)
+
+
+### Features
+
+* add interactive shell access to containers ([aa40b22](https://github.com/mogenius/mocli/commit/aa40b229b0835f9eaa599e9f35de8d9fef49a151))
+* add user-facing `mocli shell` command for container access ([699a477](https://github.com/mogenius/mocli/commit/699a477a8b4052821d40c26805f0e8c57a5a76af))
+
+### [1.10.3](https://github.com/mogenius/mocli/compare/v1.10.2-dev.2...v1.10.3) (2026-06-15)
+
+### [1.10.3-dev.0](https://github.com/mogenius/mocli/compare/v1.10.2-dev.2...v1.10.3-dev.0) (2026-06-17)
+
+
+### Bug Fixes
+
+* k8s like cli paramenter handling. ([7752800](https://github.com/mogenius/mocli/commit/77528009b5165f7ed952243c21c653f90bf85b11))
 
 ### [1.10.2](https://github.com/mogenius/mocli/compare/v1.10.2-dev.0...v1.10.2) (2026-06-11)
 
