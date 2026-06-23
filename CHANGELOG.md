@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/mogenius/mocli/compare/v1.12.0-dev.2...v1.12.0) (2026-06-23)
+
+
+### Bug Fixes
+
+* merge fix ([7b91253](https://github.com/mogenius/mocli/commit/7b912535343bad5ea022e3f5451a107267456c65))
+
+### [1.11.1](https://github.com/mogenius/mocli/compare/v1.11.1-dev.0...v1.11.1) (2026-06-22)
+
 ### [1.11.1](https://github.com/mogenius/mocli/compare/v1.11.1-dev.0...v1.11.1) (2026-06-22)
 
 ### [1.11.1-dev.0](https://github.com/mogenius/mocli/compare/v1.11.0-dev.4...v1.11.1-dev.0) (2026-06-22)
