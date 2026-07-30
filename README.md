@@ -13,10 +13,12 @@ This is the public version of `mocli` repository for distribution purposes. It j
 Currently, we only support [Homebrew](https://brew.sh/)(for Mac 'n Linux) and [Scoop](https://scoop.sh/)(for Windows).
 
 ### Mac/Linux
+
 Install [Homebrew](https://brew.sh/) if you haven't done so.
 
 ```
 brew tap mogenius/mocli
+brew trust mogenius/mocli
 brew install mocli
 ```
 
