@@ -2,6 +2,56 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.13.1](https://github.com/mogenius/mocli/compare/v1.13.0...v1.13.1) (2026-07-31)
+
+## [1.13.0-dev.4](https://github.com/mogenius/mocli/compare/v1.13.0-dev.3...v1.13.0-dev.4) (2026-07-31)
+
+## [1.13.0](https://github.com/mogenius/mocli/compare/v1.13.0-dev.3...v1.13.0) (2026-07-31)
+
+
+### Bug Fixes
+
+* fetch pod stats via cluster-scoped endpoint; server-side search for resource lists (TUI + --search flag) ([86aee1f](https://github.com/mogenius/mocli/commit/86aee1ffa9bd6b8fbf986682546fec0de3992345))
+
+## [1.13.0-dev.4](https://github.com/mogenius/mocli/compare/v1.13.0-dev.3...v1.13.0-dev.4) (2026-07-31)
+
+
+### Bug Fixes
+
+* fetch pod stats via cluster-scoped endpoint; server-side search for resource lists (TUI + --search flag) ([86aee1f](https://github.com/mogenius/mocli/commit/86aee1ffa9bd6b8fbf986682546fec0de3992345))
+
+## [1.13.0-dev.3](https://github.com/mogenius/mocli/compare/v1.13.0-dev.2...v1.13.0-dev.3) (2026-07-30)
+
+## [1.13.0-dev.2](https://github.com/mogenius/mocli/compare/v1.13.0-dev.1...v1.13.0-dev.2) (2026-07-22)
+
+
+### Bug Fixes
+
+* yaml start '---' wrongly errored with missing kind ([3950de4](https://github.com/mogenius/mocli/commit/3950de46f87f5f08ed1fca13c38f9a62e3dfe93d))
+
+## [1.13.0-dev.1](https://github.com/mogenius/mocli/compare/v1.13.0-dev.0...v1.13.0-dev.1) (2026-07-22)
+
+
+### Features
+
+* add config set-namespace command to configure the default namespace for the current contxt ([bbdb3e2](https://github.com/mogenius/mocli/commit/bbdb3e2209781a10329dc107f950b7e53d68b650))
+
+## [1.13.0-dev.0](https://github.com/mogenius/mocli/compare/v1.12.1-dev.1...v1.13.0-dev.0) (2026-07-22)
+
+
+### Features
+
+* **tui:** add namespace browsing and picker view ([69b6985](https://github.com/mogenius/mocli/commit/69b69858b14cb1ab7fdb64fe32be75f05e4e7ead))
+* **tui:** resolve kubectl short names before substring fallback ([2692b21](https://github.com/mogenius/mocli/commit/2692b21e466fcb58fb3070c5ddc3cdb5696a441f))
+
+### [1.12.1-dev.1](https://github.com/mogenius/mocli/compare/v1.12.1-dev.0...v1.12.1-dev.1) (2026-07-21)
+
+
+### Bug Fixes
+
+* added agent run ([66e1b67](https://github.com/mogenius/mocli/commit/66e1b678278a7c67ff49c438dc0cbffbbd4c8387))
+* added agent run ([7d5a798](https://github.com/mogenius/mocli/commit/7d5a7980cee239c4ef4e52093f5208cc0925f1da))
+
 ### [1.12.1](https://github.com/mogenius/mocli/compare/v1.12.1-dev.0...v1.12.1) (2026-07-21)
 
 ### [1.12.1-dev.0](https://github.com/mogenius/mocli/compare/v1.12.0-dev.11...v1.12.1-dev.0) (2026-07-21)
