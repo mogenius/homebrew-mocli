@@ -14,7 +14,6 @@ for any cluster, with or without a mogenius account.
 
 [![Release](https://img.shields.io/github/v/release/mogenius/homebrew-mocli?style=flat-square&color=009bc5&label=release)](https://github.com/mogenius/homebrew-mocli/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/mogenius/homebrew-mocli/total?style=flat-square&color=009bc5)](https://github.com/mogenius/homebrew-mocli/releases)
-[![License](https://img.shields.io/badge/license-MPL--2.0-009bc5?style=flat-square)](LICENSE)
 [![Platforms](https://img.shields.io/badge/platforms-macOS%20%7C%20Linux%20%7C%20Windows-009bc5?style=flat-square)](#supported-platforms)
 
 [Install](#install) · [Quick start](#quick-start) · [The TUI](#the-tui) · [The CLI](#the-cli) · [mogenius.com](https://mogenius.com)
@@ -265,4 +264,5 @@ manifest and the release binaries. The source lives in a private repository.
 
 ## License
 
-mocli is released under the [Mozilla Public License 2.0](LICENSE).
+mocli is commercial software by mogenius GmbH. See
+[mogenius.com](https://mogenius.com) for terms and licensing.
