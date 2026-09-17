@@ -1,6 +1,6 @@
 {
     "version": "1.14.0",
-    "license": "MIT",
+    "license": "UNKNOWN",
     "homepage": "https://mocli.dev",
     "bin": "mocli.exe",
     "pre_install": "Rename-Item \"$dir\\mocli-v1.14.0-windows-amd64\" mocli.exe",
