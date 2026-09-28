@@ -1,11 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-  <img src="assets/logo.png" alt="mogenius" width="240">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mocli-logo-dark.png">
+  <img src="assets/mocli-logo.png" alt="mocli" width="460">
 </picture>
-
-# mocli
 
 **Your cluster, in the terminal.**
 
